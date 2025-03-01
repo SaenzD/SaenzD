@@ -7,6 +7,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - 🏢 I am currently working as a Software Engineer at OAGTECH21
+- 🎓 Studies for Software Engineering at Technological University of the Riviera Maya
 <!--
 **SaenzD/SaenzD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
