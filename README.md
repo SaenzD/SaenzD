@@ -8,10 +8,12 @@
 
 - 🏢 I am currently working as a Software Engineer at OAGTECH21
 - 🎓 Studies for Software Engineering at Technological University of the Riviera Maya
-- 🤝 I am looking to collaborate on any open source project
+- 💫 I’m a front-end web developer, currently learning Angular
+- 👩‍💻 Constantly learning. I'm very interested in Open Source!
 - 🏡'Lives in Chapultenango,  Chiapas, Mexico
 - 📧 How to reach me: saenz.doguez@gmail.com
 
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills</b>
 
 
 
