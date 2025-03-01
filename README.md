@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Andres Saenz<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20github%20page;Web%20Developer;Full%20Stack%20Developer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
-  
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&duration=4000&pause=1000&center=true&vCenter=true&width=500&height=60&lines=Welcome+to+my+Github+page;Web+Developer;Full+Stack+Developer;3%2B+years+of+coding+experience;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 <!--
