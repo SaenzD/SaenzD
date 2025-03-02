@@ -19,11 +19,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,&perline=14" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,git,css,docker,express,github,html,java,js,materialui,mysql,nodejs,postman,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
