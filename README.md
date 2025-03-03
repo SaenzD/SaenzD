@@ -24,7 +24,7 @@
 </p>
 <br><br>
 
-# Conect with me</b>
+# <h2 style="display: inline-block"> Conect with me</h2></b>
 
 <div id="user-content-toc">
   <ul align="start">
