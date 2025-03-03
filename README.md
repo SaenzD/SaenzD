@@ -28,9 +28,10 @@
 
 <div id="user-content-toc">
   <ul align="start">
-    <summary><h2 style="display: inline-block">Connect with me</h2></summary></b>
+    <summary><h2 style="display: inline-block">Connect with me</h2></summary>
   </ul>
 </div>
+</b>
 
 <!--icons and links-->
 <p align="center">
