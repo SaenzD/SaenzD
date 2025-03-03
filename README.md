@@ -23,7 +23,7 @@
   </a>
 </p>
 
-# <h2 style="display: inline-block"> Conect with me</h2></b>
+## <h2 style="display: inline-block"> Conect with me</h2></b>
 
 <!--icons and links-->
 <p align="center">
