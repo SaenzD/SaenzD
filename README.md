@@ -37,3 +37,8 @@
 <!--<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>-->
   
 </p>
+![gmail](https://github.com/user-attachments/assets/345dc170-4109-4fe0-9f3b-d265414e904f)
+![google](https://github.com/user-attachments/assets/2fcbefcf-9122-468b-992a-1f2b74b52e25)
+![linkedin](https://github.com/user-attachments/assets/87290fc8-4dc3-4537-adbf-abd8f61b4488)
+![whatsapp](https://github.com/user-attachments/assets/7c30cf8d-ad78-4908-923b-4f03e1b11278)
+![facebook](https://github.com/user-attachments/assets/969d7b3a-b835-4f40-a3e4-210cc5372c3c)
