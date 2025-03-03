@@ -22,7 +22,7 @@
     <img src="https://skillicons.dev/icons?i=angular,bootstrap,cs,git,css,docker,dotnet,github,githubactions,html,java,js,materialui,mysql,nodejs,notion,npm,postman,tailwind,ts,visualstudio,vscode,windows&perline=14" />
   </a>
 </p>
-<br><br>
+<br>
 
 # <h2 style="display: inline-block"> Conect with me</h2></b>
 
