@@ -24,12 +24,10 @@
 </p>
 <br><br>
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">Conect with me</b>
+##Conect with me</b>
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
+  <ul align="start">
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
 </div>
